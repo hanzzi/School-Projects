@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringAnalysisAdvanced.cs" />
+    <Compile Include="StringAnalysisBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
