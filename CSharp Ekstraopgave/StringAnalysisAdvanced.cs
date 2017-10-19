@@ -40,5 +40,7 @@ namespace CSharp_Ekstraopgave
 
             return Percentage.ToString();
         }
+
+        //  Very good, yes
     }
 }
